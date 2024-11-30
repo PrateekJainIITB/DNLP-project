@@ -68,16 +68,4 @@ The quality of the captions is assessed using BLEU scores.
 2. **Qualitative**: Captions were often fluent but less adequate in conveying key details.
 3. **Direct vs. Translation**: Direct Hindi captioning showed better fluency and adequacy compared to translated captions.
 
----
 
-## How to Run the Code
-
-### Prerequisites
-- Python 3.8+
-- Required libraries: `tensorflow`, `numpy`, `pandas`, `matplotlib`
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_folder>
